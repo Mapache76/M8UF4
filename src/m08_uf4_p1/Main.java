@@ -25,4 +25,8 @@ public class Main {
     public void Code1() {
 
     }
+
+    public void Code2() {
+
+    }
 }
