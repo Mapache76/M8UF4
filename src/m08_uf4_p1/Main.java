@@ -34,7 +34,6 @@ public class Main {
 
     }
 
-    public void fantasma(int canti) {
-        int div = canti/2;
+    public void fantasma() {
     }
 }
