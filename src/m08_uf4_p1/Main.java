@@ -29,4 +29,8 @@ public class Main {
     public void Code2() {
 
     }
+
+    public void Code3() {
+
+    }
 }
