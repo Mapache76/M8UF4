@@ -33,7 +33,4 @@ public class Main {
     public void Code3() {
 
     }
-
-    public void fantasma() {
-    }
 }
